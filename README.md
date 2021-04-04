@@ -1,2 +1,2 @@
 # portfolio_oliygoh
-FrontEnd uchun
+FrontEnd qismi
