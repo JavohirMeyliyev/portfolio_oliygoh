@@ -729,6 +729,123 @@ section{
   }
 }
 
+.univerOne{
+
+  nav{
+    .container{
+      p{
+        font-size: 12px;
+        color: $color_green;
+      }
+      .dropdownt{
+        a{
+          font-size: 12px;
+          color: $color_green;
+        }
+        .dropdown-menu{
+          .dropdown-item{
+            font-size: 12px;
+            color: $color_green;
+          }
+        }
+      }
+    }
+    .navbar{
+      background-color: $color_blue;
+      .nav-link{
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 400;
+      }
+      .sur{
+        padding-right: 20px;
+      }
+    }
+  }
+.sectionOne{
+  padding: 40px;
+  background-color: rgba(200, 201, 204, 0.22);
+  .col-md-3 {
+    .card {
+      background-color: #ffffff;
+      
+      ul{
+        list-style: none;
+        font-size: 14px;
+        color: #181818;
+        font-weight: 500;
+        padding-left: 20px;
+        a{
+          color: #738099;
+          font-weight: 400;
+          line-height: 30px;
+          &:hover{
+            color: #181818;
+            font-weight: 500;
+          }
+          &:focus{
+            color: #181818;
+            font-weight: 500;
+          }
+        }
+      }
+    }
+  }
+}
+  footer{
+    .col-md-3{
+      img{
+        width: 65%;
+      }
+      p{
+        color: #738099;
+        font-size: 13px;
+      }
+    }
+    .col-md-5{
+      p{
+        color: #738099;
+        font-size: 13px;
+      }
+      button{
+        color: #3A404E;
+        font-size: 13px;
+        padding-bottom: 5px;
+        padding-top: 5px;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: #ffffff;
+        margin-bottom: 10px;
+        border: 1px solid gainsboro;
+        &:focus{
+          outline: none;
+          background-color: $color_blue;
+          color: #ffffff;
+        }
+      }
+    }
+    .col-6{
+      p{
+        color: #738099;
+        font-size: 13px;
+      }
+      ul{
+        list-style: none;
+        a{
+          color: #3A404E;
+          font-weight: 500;
+          line-height: 30px;
+        }
+      }
+    }
+    span{
+      color: #738099;
+      font-size: 13px;
+
+    }
+  }
+}
+
 .univertwo{
   nav{
     .container{
