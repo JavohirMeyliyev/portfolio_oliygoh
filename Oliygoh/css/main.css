@@ -494,7 +494,8 @@
   padding: 40px;
   background-color: rgba(200, 201, 204, 0.22); }
   .univerOne .sectionOne .col-md-3 .card {
-    background-color: #ffffff; }
+    background-color: #ffffff;
+    padding-top: 25px; }
     .univerOne .sectionOne .col-md-3 .card ul {
       list-style: none;
       font-size: 14px;
